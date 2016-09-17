@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+
+	<glob url="D31373E7B3B902EB259468B9A70492C7_10*.ntuple.root" />
+	<!-- histograms to auto-make -->
+	<histograms>
+		<Histo name="Trays" title="Trays" min="0" max="121" width="1" />
+		<Histo name="Module" title="Module" min="0" max="33" width="1" />
+		<Histo name="Cell" title="Cell" min="1" max="7" width="1" />
+	</histograms>
+
+		
+
+</config>
+	
